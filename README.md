@@ -38,7 +38,7 @@ MediChain is a decentralized healthcare management system built on the Ethereum 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/mysticjoel/medichain.git
 cd medichain
 ```
 
